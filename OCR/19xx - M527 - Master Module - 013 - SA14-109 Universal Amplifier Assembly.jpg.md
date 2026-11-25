@@ -54,7 +54,7 @@ PN3645
 
 ```json
 {
- "file": "Modules/SUMMING/M527/SCHEMATICS/19xx - M527 - Master Module - 013 - SA14-109 Universal Amplifier Assembly.jpg",
+ "file": "Modules/SUMMING/M527/MANUALS/19xx - M527 - Master Module - 013 - SA14-109 Universal Amplifier Assembly.jpg",
  "sha256": "d9e744af46628909c53922f452a38866aebc575257f930b71868bb01a50f6a5f",
  "kind": "module",
  "models": [

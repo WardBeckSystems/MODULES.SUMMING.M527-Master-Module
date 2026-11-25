@@ -70,7 +70,7 @@ Berg
 
 ```json
 {
- "file": "Modules/SUMMING/M527/SCHEMATICS/19xx - M527 - Master Module - 012 - SA14-109 Universal Amplifier Assembly.jpg",
+ "file": "Modules/SUMMING/M527/MANUALS/19xx - M527 - Master Module - 012 - SA14-109 Universal Amplifier Assembly.jpg",
  "sha256": "4eb9994b4159f5048f5ae34f97de345ade8aab5b9e5a2c03ab4d8bf53ad0e813",
  "kind": "module",
  "models": [

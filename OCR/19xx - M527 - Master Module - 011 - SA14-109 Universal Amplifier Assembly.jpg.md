@@ -24,7 +24,7 @@ SA14-109 UNIVERSAL AMPL IFIER ASSEMBL Y
 
 ```json
 {
- "file": "Modules/SUMMING/M527/SCHEMATICS/19xx - M527 - Master Module - 011 - SA14-109 Universal Amplifier Assembly.jpg",
+ "file": "Modules/SUMMING/M527/MANUALS/19xx - M527 - Master Module - 011 - SA14-109 Universal Amplifier Assembly.jpg",
  "sha256": "833dff9f988c4883889399023feae043974fd545a2f503c1617dc08f26fd74af",
  "kind": "module",
  "models": [

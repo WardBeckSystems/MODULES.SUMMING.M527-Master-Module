@@ -49,7 +49,7 @@ WBS recommends the use of replacement parts made by the specified manufacturers 
 
 ```json
 {
- "file": "Modules/SUMMING/M527/SCHEMATICS/19xx - M527 - Master Module - 015 - SA14-109 Universal Amplifier Assembly.jpg",
+ "file": "Modules/SUMMING/M527/MANUALS/19xx - M527 - Master Module - 015 - SA14-109 Universal Amplifier Assembly.jpg",
  "sha256": "848b9b92986709058071de6491d7fefc5c17f60f25e5509cac90f8c7f19252f0",
  "kind": "module",
  "models": [

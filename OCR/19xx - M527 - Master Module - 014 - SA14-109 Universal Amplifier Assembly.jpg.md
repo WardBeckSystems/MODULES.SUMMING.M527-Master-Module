@@ -51,7 +51,7 @@ Amp
 
 ```json
 {
- "file": "Modules/SUMMING/M527/SCHEMATICS/19xx - M527 - Master Module - 014 - SA14-109 Universal Amplifier Assembly.jpg",
+ "file": "Modules/SUMMING/M527/MANUALS/19xx - M527 - Master Module - 014 - SA14-109 Universal Amplifier Assembly.jpg",
  "sha256": "e2587c101226005265012a485afc8f95d6c9646b6f6b8ddbc1fa7b587d0fe18e",
  "kind": "module",
  "models": [
