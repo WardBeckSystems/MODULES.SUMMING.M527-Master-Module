@@ -1,0 +1,79 @@
+{
+ "drawing": "Modules/SUMMING/M527/SCHEMATICS/19xx - M527 - Master Module - 009 - Module Layout.jpg",
+ "version": 1,
+ "trace": "_traces/25de858cb21d72b1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1384],
+  "mm": [431.8, 298.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [11.0, 0.0, 425.2, 298.8],
+ "outlines": {
+  "line": {"rings": 754, "straight": {"n": 4583, "mm": 10682.7}, "curved": {"n": 1193, "mm": 1136.2}},
+  "text": {"rings": 106, "straight": {"n": 732, "mm": 743.6}, "curved": {"n": 208, "mm": 235.4}},
+  "tb": {"rings": 2, "straight": {"n": 53, "mm": 107.4}, "curved": {"n": 4, "mm": 4.3}}
+ },
+ "circles": [
+  {"c": [127.6, 130.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [25.1, 175.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [25.3, 35.0], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [25.2, 120.5], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [25.0, 261.3], "r": 2.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [60.6, 192.0], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [60.8, 148.9], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [122.2, 48.9], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [61.0, 49.0], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [60.9, 98.9], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [121.8, 148.8], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [60.8, 142.0], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [60.9, 92.0], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [121.6, 191.9], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [283.0, 13.5], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [281.4, 283.6], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [121.7, 142.0], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [23.7, 260.2, 26.2, 262.5], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [39.5, 154.6, 52.7, 170.6], "w": 13.2, "h": 16.0, "from": "ring"},
+  {"mm": [39.5, 125.2, 52.7, 141.2], "w": 13.2, "h": 16.0, "from": "ring"},
+  {"mm": [40.6, 126.1, 48.6, 140.3], "w": 8.0, "h": 14.2, "from": "ring"},
+  {"mm": [24.0, 119.4, 26.4, 121.8], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [39.9, 96.1, 52.5, 111.4], "w": 12.5, "h": 15.3, "from": "ring"},
+  {"mm": [40.6, 96.7, 48.8, 110.8], "w": 8.3, "h": 14.0, "from": "ring"},
+  {"mm": [11.7, 42.5, 19.5, 44.9], "w": 7.8, "h": 2.4, "from": "ring"},
+  {"mm": [43.6, 22.2, 50.2, 29.8], "w": 6.6, "h": 7.6, "from": "ring"},
+  {"mm": [68.9, 22.0, 75.6, 29.8], "w": 6.7, "h": 7.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [63.7, 170.8, 69.5, 172.9], "text": "6-109"},
+   {"mm": [85.3, 70.4, 97.6, 72.5], "text": "VYVERSAL"},
+   {"mm": [345.2, 35.6, 426.2, 41.1], "text": "WBS WAAD-BECk ByBTEMB"},
+   {"mm": [375.9, 24.8, 390.6, 30.3], "text": "M627"},
+   {"mm": [360.1, 18.6, 407.6, 25.5], "text": "MASTER MODULE"},
+   {"mm": [361.4, 13.6, 407.8, 18.9], "text": "MODULE LAYOUT"},
+   {"mm": [347.8, 5.0, 381.3, 9.8], "text": "627-04-001"},
+   {"mm": [412.6, 5.0, 426.2, 10.2], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [336.5, 29.6, 408.6, 47.0], "from": "title-block words (training set)", "text": ["WBS WAAD-BECk ByBTEMB"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** component layout, size B (assumed) 432 × 299 mm, 2000 × 1384 px traced (0.216 mm/px)",
+  "- **Ink extent:** 11–425 mm across, 0–299 mm up",
+  "- **Outlines:** line 754 rings, 4,583 straight (10,683 mm) / 1,193 curved (1,136 mm); text 106 rings, 732 straight (744 mm) / 208 curved (235 mm); tb 2 rings, 53 straight (107 mm) / 4 curved (4.3 mm)",
+  "- **Circles and arcs:** 17 circles, 0 arcs; largest r 2.3 @ (127.6, 130.3), r 2.3 @ (25.1, 175.5), r 2.3 @ (25.3, 35.0), r 2.3 @ (25.2, 120.5)",
+  "- **Closed boxes:** 10",
+  "- **Words (OCR):** 10 in 8 lines: 6-109 · VYVERSAL · WBS WAAD-BECk ByBTEMB · M627 · MASTER MODULE · MODULE LAYOUT · 627-04-001 · ISS.1",
+  "- **Title block:** (336, 30)–(409, 47) mm: WBS WAAD-BECk ByBTEMB"
+ ]
+}

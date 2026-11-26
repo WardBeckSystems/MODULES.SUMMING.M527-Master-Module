@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/SUMMING/M527/MECHANICAL/19xx - M527 - DOC - 3642-04-003 - ADERS STEREO MASTER FADERS MONO INPUT FADERS.jpg",
+ "version": 1,
+ "trace": "_traces/57e29d89ec6bdc56.svg",
+ "sheet": {
+  "number": "3642-04-003",
+  "title": "",
+  "dtype": "04",
+  "type": "layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1294],
+  "mm": [431.8, 279.4],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, -0.2, 431.8, 278.7],
+ "outlines": {
+  "line": {"rings": 1335, "straight": {"n": 7769, "mm": 10482.3}, "curved": {"n": 1200, "mm": 1324.7}},
+  "text": {"rings": 52, "straight": {"n": 384, "mm": 314.1}, "curved": {"n": 93, "mm": 114.8}},
+  "tb": {"rings": 23, "straight": {"n": 189, "mm": 189.4}, "curved": {"n": 29, "mm": 34.7}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [392.3, 30.2, 423.8, 33.3], "w": 31.5, "h": 3.1, "from": "ring", "in_title_block": true},
+  {"mm": [379.3, 30.2, 385.4, 33.2], "w": 6.0, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [385.8, 30.2, 391.9, 33.2], "w": 6.0, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [363.4, 21.3, 430.3, 29.8], "w": 66.9, "h": 8.5, "from": "ring", "words": ["WBS", "WARD-Deck systeMS"], "in_title_block": true},
+  {"mm": [363.4, 18.1, 378.9, 21.2], "w": 15.5, "h": 3.0, "from": "ring", "in_title_block": true},
+  {"mm": [363.4, 14.9, 378.9, 17.9], "w": 15.5, "h": 3.0, "from": "ring"},
+  {"mm": [363.4, 11.9, 378.9, 14.7], "w": 15.5, "h": 2.8, "from": "ring"},
+  {"mm": [363.4, 8.6, 378.9, 11.4], "w": 15.5, "h": 2.8, "from": "ring"},
+  {"mm": [363.4, 2.1, 378.9, 8.2], "w": 15.5, "h": 6.1, "from": "ring", "words": ["SCAE"]}
+ ],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [152.2, 186.5, 164.5, 188.7], "text": "EpALIZERS"},
+   {"mm": [205.5, 186.5, 213.1, 188.7], "text": "STEREO"},
+   {"mm": [220.6, 186.5, 227.1, 188.7], "text": "ZEAS"},
+   {"mm": [262.3, 150.3, 273.8, 152.4], "text": "SUBUAsTER"},
+   {"mm": [263.0, 108.2, 270.5, 110.3], "text": "FaDEAS"},
+   {"mm": [369.0, 23.3, 428.3, 27.6], "text": "WBS WARD-Deck systeMS"},
+   {"mm": [393.2, 15.5, 412.2, 21.1], "text": "ST3642"},
+   {"mm": [379.8, 11.9, 430.5, 16.2], "text": "STEREO TELEVISION CONSOLE"},
+   {"mm": [388.8, 8.2, 420.1, 12.0], "text": "TOR MIEW LAYOUT"},
+   {"mm": [367.5, 6.3, 373.9, 8.4], "text": "SCAE"},
+   {"mm": [391.0, 2.8, 414.3, 7.1], "text": "3842-04-003"}
+  ]
+ },
+ "title_block": {"mm": [360.3, 17.6, 431.8, 33.1], "from": "title-block words (training set)", "text": ["WBS WARD-Deck systeMS", "ST3642"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** layout 3642-04-003, size B (assumed) 432 × 279 mm, 2000 × 1294 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–432 mm across, 0–279 mm up",
+  "- **Outlines:** line 1,335 rings, 7,769 straight (10,482 mm) / 1,200 curved (1,325 mm); text 52 rings, 384 straight (314 mm) / 93 curved (115 mm); tb 23 rings, 189 straight (189 mm) / 29 curved (34.7 mm)",
+  "- **Closed boxes:** 9 (5 in the title block); named: SCAE",
+  "- **Words (OCR):** 12 in 11 lines: EpALIZERS · STEREO · ZEAS · SUBUAsTER · FaDEAS · WBS WARD-Deck systeMS · ST3642 · STEREO TELEVISION CONSOLE · TOR MIEW LAYOUT · SCAE · 3842-04-003",
+  "- **Title block:** (360, 18)–(432, 33) mm: WBS WARD-Deck systeMS · ST3642"
+ ]
+}
