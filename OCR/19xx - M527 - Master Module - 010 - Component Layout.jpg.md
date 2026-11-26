@@ -11,6 +11,19 @@ Wiki page: [M527](../../../../PAGES/M527.md)
 - **Size:** 4,618,884 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 250 mm, 2000 × 1157 px traced (0.216 mm/px)
+- **Ink extent:** 5–424 mm across, 6–244 mm up
+- **Outlines:** line 1,003 rings, 8,510 straight (12,490 mm) / 2,266 curved (2,354 mm); text 649 rings, 3,635 straight (2,966 mm) / 1,315 curved (1,397 mm); tb 848 rings, 5,386 straight (5,985 mm) / 1,675 curved (1,722 mm)
+- **Circles and arcs:** 16 circles, 0 arcs; largest r 3.8 @ (214.7, 233.5), r 3.5 @ (26.4, 84.1), r 3.5 @ (150.6, 84.9), r 2.7 @ (177.7, 91.4)
+- **Closed boxes:** 7
+- **Dots (junctions):** 1
+- **Words (OCR):** 76 in 70 lines: 1-109-J2 · 109-J2 · 109-J2 · 553 · WBS · CANADA · 2290 · 22030 · 22880 · 14-108 · R26 _ · Tuz[02
+- **Title block:** (173, 32)–(432, 212) mm: WBS · CANADA · 14-108 · Tuz[02 · R07 @X · ISSUE · R564 · A92 5X6 · 878@ · PN 5645 · 1755 · crs 444148 · R9o - · PN3G45 · 1140 Ros @ · 51K · CR3 2k2 · 109-Ji · 3-109-J1 · 13 · 10J/ 40 · 403 · STERZO SL
+
+Every curve, box, word and wire group: [19xx - M527 - Master Module - 010 - Component Layout (traced).json](../SCHEMATICS/19xx%20-%20M527%20-%20Master%20Module%20-%20010%20-%20Component%20Layout%20%28traced%29.json) (the CAD file: `19xx - M527 - Master Module - 010 - Component Layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

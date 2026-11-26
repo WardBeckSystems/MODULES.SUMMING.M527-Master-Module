@@ -24,7 +24,7 @@ Wiki page: [M527](../../../../PAGES/M527.md)
 - **Title block:** (324, 38)–(432, 58) mm: WBS · WARD-BECK BYSTEMS
 - **Wiring (first pass):** 165 connected wire groups from 1,311 runs; labelled ends: 163 mm → Ts; 118 mm → Ts; 85 mm → Ts; 78 mm → ie; 35 mm → 057
 
-Every curve, box, word and wire group: [19xx - M527 - B 527-02-001 - M527 MASTER MODULE - SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M527%20-%20B%20527-02-001%20-%20M527%20MASTER%20MODULE%20-%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M527 - B 527-02-001 - M527 MASTER MODULE - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M527 - B 527-02-001 - M527 MASTER MODULE - SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M527%20-%20B%20527-02-001%20-%20M527%20MASTER%20MODULE%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M527 - B 527-02-001 - M527 MASTER MODULE - SCHEMATIC (traced).dxf`).
 
 ## Full text
 

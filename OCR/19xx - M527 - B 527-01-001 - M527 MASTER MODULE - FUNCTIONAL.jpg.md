@@ -22,7 +22,7 @@ Wiki page: [M527](../../../../PAGES/M527.md)
 - **Title block:** (319, 37)–(432, 56) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 143 connected wire groups from 347 runs; labelled ends: 77 mm → IFieR, DIRect; 72 mm → Summing; 34 mm → SumminG, CONTROL; 34 mm → SumminG, AMPLITIER; 33 mm → Suvyi G, Summing
 
-Every curve, box, word and wire group: [19xx - M527 - B 527-01-001 - M527 MASTER MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M527%20-%20B%20527-01-001%20-%20M527%20MASTER%20MODULE%20-%20FUNCTIONAL%20(traced).json) (the CAD file: `19xx - M527 - B 527-01-001 - M527 MASTER MODULE - FUNCTIONAL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M527 - B 527-01-001 - M527 MASTER MODULE - FUNCTIONAL (traced).json](../SCHEMATICS/19xx%20-%20M527%20-%20B%20527-01-001%20-%20M527%20MASTER%20MODULE%20-%20FUNCTIONAL%20%28traced%29.json) (the CAD file: `19xx - M527 - B 527-01-001 - M527 MASTER MODULE - FUNCTIONAL (traced).dxf`).
 
 ## Full text
 

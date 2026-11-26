@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 17 in 14 lines: issue |DATE · REVISION · WBS WARD-BECK SYSTEME · DRN.BD 83 · M527 · ENG · Mru · MASTER MODULE · CKD: · FRONT PANEL LAYOUT · APR_EA · SCALE
 - **Title block:** (77, 1)–(194, 77) mm: issue |DATE · REVISION · WBS WARD-BECK SYSTEME · DRN.BD 83 · M527 · ENG · Mru · MASTER MODULE · CKD: · FRONT PANEL LAYOUT · APR_EA · SCALE · 527-04-001
 
-Every curve, box, word and wire group: [19xx - M527 - DOC - 527-04-001 - FRONT PANEL LAYOUT (traced).json](../MECHANICAL/19xx%20-%20M527%20-%20DOC%20-%20527-04-001%20-%20FRONT%20PANEL%20LAYOUT%20(traced).json) (the CAD file: `19xx - M527 - DOC - 527-04-001 - FRONT PANEL LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M527 - DOC - 527-04-001 - FRONT PANEL LAYOUT (traced).json](../MECHANICAL/19xx%20-%20M527%20-%20DOC%20-%20527-04-001%20-%20FRONT%20PANEL%20LAYOUT%20%28traced%29.json) (the CAD file: `19xx - M527 - DOC - 527-04-001 - FRONT PANEL LAYOUT (traced).dxf`).
 
 ## Full text
 

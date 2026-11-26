@@ -23,7 +23,7 @@ Wiki page: [M527](../../../../PAGES/M527.md)
 - **Title block:** (321, 36)–(432, 56) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 70 connected wire groups from 492 runs; labelled ends: 113 mm → P0JS69, Inr; 109 mm → Tzz/z5; 96 mm → 220/10; 94 mm → P43569; 93 mm → 220/10, 10/15
 
-Every curve, box, word and wire group: [19xx - M527 - B 14-109-02-001 - SA14-109 UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M527%20-%20B%2014-109-02-001%20-%20SA14-109%20UNIVERSAL%20AMPLIFIER%20ASSEMBLY%20-%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M527 - B 14-109-02-001 - SA14-109 UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M527 - B 14-109-02-001 - SA14-109 UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M527%20-%20B%2014-109-02-001%20-%20SA14-109%20UNIVERSAL%20AMPLIFIER%20ASSEMBLY%20-%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M527 - B 14-109-02-001 - SA14-109 UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC (traced).dxf`).
 
 ## Full text
 
