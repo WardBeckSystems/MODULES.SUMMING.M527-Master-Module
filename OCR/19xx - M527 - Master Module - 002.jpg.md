@@ -1,5 +1,5 @@
 # 19xx - M527 - Master Module - 002.jpg
-Wiki page: [M527](../../../../PAGES/M527.md)
+Wiki page: [M527](../)
 
 
 - **Year:** unknown (unknown)

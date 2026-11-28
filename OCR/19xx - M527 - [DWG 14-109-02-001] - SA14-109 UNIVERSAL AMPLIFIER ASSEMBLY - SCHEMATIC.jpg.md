@@ -1,5 +1,5 @@
 # 19xx - M527 - B 14-109-02-001 - SA14-109 UNIVERSAL AMPLIFIER ASSEMBLY - SCHEMATIC.jpg
-Wiki page: [M527](../../../../PAGES/M527.md)
+Wiki page: [M527](../)
 
 
 - **Year:** unknown (unknown)

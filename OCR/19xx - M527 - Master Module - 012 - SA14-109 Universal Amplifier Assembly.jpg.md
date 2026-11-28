@@ -1,5 +1,5 @@
 # 19xx - M527 - Master Module - 012 - SA14-109 Universal Amplifier Assembly.jpg
-Wiki page: [M527](../../../../PAGES/M527.md)
+Wiki page: [M527](../)
 
 
 - **Year:** unknown (unknown)

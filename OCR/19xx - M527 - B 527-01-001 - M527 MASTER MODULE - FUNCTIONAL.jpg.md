@@ -1,5 +1,5 @@
 # 19xx - M527 - B 527-01-001 - M527 MASTER MODULE - FUNCTIONAL.jpg
-Wiki page: [M527](../../../../PAGES/M527.md)
+Wiki page: [M527](../)
 
 
 - **Year:** unknown (unknown)

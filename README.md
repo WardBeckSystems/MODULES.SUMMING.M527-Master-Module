@@ -1,6 +1,6 @@
 # M527 Master Module · Summing
 
-Ward-Beck Systems M527. Wiki page: [M527 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M527.html)
+Ward-Beck Systems M527. Wiki page: [M527 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M527-Master-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
