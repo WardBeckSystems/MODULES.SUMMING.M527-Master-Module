@@ -27,6 +27,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY1BkakNsd3JZNVU/view?resourcekey=0-8S-UUmyhXYLRW_EeyyBZ6g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY1BkakNsd3JZNVU&resourcekey=0-8S-UUmyhXYLRW_EeyyBZ6g" width="240" alt="19xx - M527 - DOC - 3642-04-003 - ADERS STEREO MASTER FADERS MONO INPUT FADERS.jpg"></a><br><sub>19xx - M527 - DOC - 3642-04-003 - ADERS STEREO MASTER FADERS MONO INPUT FADERS · <a href="MECHANICAL/19xx%20-%20M527%20-%20DOC%20-%203642-04-003%20-%20ADERS%20STEREO%20MASTER%20FADERS%20MONO%20INPUT%20FADERS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWjlIXzBpU2FMZmc/view?resourcekey=0-TPmyqxvqJf_znXJkUOwhcg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWjlIXzBpU2FMZmc&resourcekey=0-TPmyqxvqJf_znXJkUOwhcg" width="240" alt="19xx - M527 - DOC - 3642-04-003 - SUB MSTER HASTEA FADEAS ERSTER FADERS FADERS JISSU.jpg"></a><br><sub>19xx - M527 - DOC - 3642-04-003 - SUB MSTER HASTEA FADEAS ERSTER FADERS FADERS JISSU · <a href="MECHANICAL/19xx%20-%20M527%20-%20DOC%20-%203642-04-003%20-%20SUB%20MSTER%20HASTEA%20FADEAS%20ERSTER%20FADERS%20FADERS%20JISSU%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKYkxXMFRpM3hUeEE/view?resourcekey=0-HmSsBV63pRdnyff9WCq7Eg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKYkxXMFRpM3hUeEE&resourcekey=0-HmSsBV63pRdnyff9WCq7Eg" width="240" alt="19xx - M527 - DOC - 527-04-001 - FRONT PANEL LAYOUT.jpg"></a><br><sub>19xx - M527 - DOC - 527-04-001 - FRONT PANEL LAYOUT · <a href="MECHANICAL/19xx%20-%20M527%20-%20DOC%20-%20527-04-001%20-%20FRONT%20PANEL%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M527.stl`](MECHANICAL/M527.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M527)
+
+- **Size:** 66.71 × 412.58 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 2 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M527 - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M527.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
